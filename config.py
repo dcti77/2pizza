@@ -1,0 +1,4 @@
+
+bot_token = "1677873176:AAECD3nnnsCFLbZyszLC1CzONAwFBGK48r4"
+
+admin_id = 411006512
